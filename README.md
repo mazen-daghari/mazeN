@@ -18,7 +18,7 @@ Features
 
 ![image](/slam.gif)
 
-![Robot Moving](https://github.com/mazen-daghari/mazeN/blob/e56a1b9b1fd91d6cb24a2e41094cc5925aee4643/slam.gif)
+![Robot Moving](https://github.com/mazen-daghari/mazeN/blob/753a22411766561b1b7b400f00673db399df9285/moving_robot.gif)
 
 Installation
 
