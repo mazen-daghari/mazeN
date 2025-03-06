@@ -17,7 +17,8 @@ Features
 🔹 ROS2 Nodes – Modular design with separate nodes for perception, control, and navigation
 
 ![image](/slam.gif)
--
+
+![Robot Moving](/slam.gif)
 
 Installation
 
