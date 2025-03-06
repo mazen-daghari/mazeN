@@ -44,6 +44,16 @@ Launch the Simulation
 
 ros2 launch mazeN  gazebo_model.launch.py
 
+
+for slam 
+
+ros2 launch slam_toolbox online_async_launch.py params_file:=$(pwd)/src/mazeN/config/mapper_params_online_async.yaml use_sim_time:=true
+
+for amcl 
+
+ros2 run nav2_amcl amcl --ros-args -p use_sim_time:=true
+
+
 Supported Sensors :
 
 RPLiDAR A1/A2/A3 (or other compatible LiDARs)
