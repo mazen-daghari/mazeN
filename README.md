@@ -20,6 +20,9 @@ Features
 
 ![Robot Moving](https://github.com/mazen-daghari/mazeN/blob/753a22411766561b1b7b400f00673db399df9285/moving_robot.gif)
 
+-
+
+
 Installation
 
 1️⃣ Clone the repository:
@@ -48,6 +51,7 @@ Launch the Simulation
 
 ros2 launch mazeN  gazebo_model.launch.py
 
+-
 
 for slam 
 
@@ -57,6 +61,7 @@ for amcl
 
 ros2 run nav2_amcl amcl --ros-args -p use_sim_time:=true
 
+-
 
 Supported Sensors :
 
@@ -69,6 +74,9 @@ Future Work
 ✅ Localization using AMCL
 ✅ Integration with MoveIt for robotic arm support
 ✅ RViz Visualization improvements
+
+-
+
 License
 📜 MIT License – Open-source and free to use!
 feel free to contact me dagmazen@gmail.com
