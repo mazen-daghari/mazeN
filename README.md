@@ -17,19 +17,24 @@ Features
 🔹 ROS2 Nodes – Modular design with separate nodes for perception, control, and navigation
 
 Installation
+
 1️⃣ Clone the repository:
 
 
 git clone [https://github.com/YOUR_USERNAME/4wd_ros2_sim.git](https://github.com/mazen-daghari/mazeN.git)
 cd 4wd_ros2_sim
+
 2️⃣ Install dependencies:
 
 
 rosdep install --from-paths src --ignore-src -r -y
+
 3️⃣ Build the workspace:
 
 
 colcon build --symlink-install
+
+
 4️⃣ Source the workspace:
 
 source install/setup.bash
