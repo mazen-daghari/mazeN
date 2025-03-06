@@ -78,5 +78,5 @@ Future Work
 -
 
 License
-📜 MIT License – Open-source and free to use!
+📜 GPL3
 feel free to contact me dagmazen@gmail.com
