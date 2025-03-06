@@ -16,7 +16,7 @@ Features
 🔹 4WD Differential Drive – Supports skid steering and Ackermann steering
 🔹 ROS2 Nodes – Modular design with separate nodes for perception, control, and navigation
 
-![image](/slam.gif)
+![slam](https://github.com/mazen-daghari/mazeN/blob/334f24de1bf3aeb0b9ea591387faadd7f677bd82/slam.gif)
 
 ![Robot Moving](https://github.com/mazen-daghari/mazeN/blob/753a22411766561b1b7b400f00673db399df9285/moving_robot.gif)
 
