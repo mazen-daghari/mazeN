@@ -15,6 +15,8 @@ Features
 🔹 Teleoperation – Control via keyboard or joystick
 🔹 4WD Differential Drive – Supports skid steering and Ackermann steering
 🔹 ROS2 Nodes – Modular design with separate nodes for perception, control, and navigation
+-
+Connect the Nextion display to the Arduino board using the appropriate pins (e.g., TX, RX, VCC, GND).
 ![image](/slam.gif)
 
 
