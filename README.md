@@ -42,13 +42,7 @@ Usage
 Launch the Simulation
 
 
-ros2 launch 4wd_robot_sim bringup.launch.py
-Run Teleoperation
-
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
-Start Navigation (Nav2)
-
-ros2 launch nav2_bringup bringup_launch.py use_sim_time:=True map:=path/to/map.yaml
+ros2 launch mazeN  gazebo_model.launch.py
 
 Supported Sensors :
 
