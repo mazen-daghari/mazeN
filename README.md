@@ -25,7 +25,7 @@ Installation
 1️⃣ Clone the repository:
 
 
-git clone [https://github.com/YOUR_USERNAME/4wd_ros2_sim.git](https://github.com/mazen-daghari/mazeN.git)
+git clone (https://github.com/mazen-daghari/mazeN.git)
 cd 4wd_ros2_sim
 
 2️⃣ Install dependencies:
